@@ -1,7 +1,0 @@
-Grafico de barras - Sexo x Survival
-===================================
-
-Female nao sobreviveu: ###### (81)
-Female sobreviveu: ################### (233)
-Male nao sobreviveu: ######################################## (468)
-Male sobreviveu: ######### (109)
